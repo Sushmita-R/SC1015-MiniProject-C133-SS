@@ -29,6 +29,11 @@ This project analyses the factors that may have contributed to employee attritio
 
 
 ## Learning Outcomes
+1. Data wrangling
+2. Data Analysis
+3. Machine Learning
+4. Programming
+5. Data Visualization
 
 ## References 
 1. https://slidesgo.com/theme/minimalist-korean-aesthetic-pitch-deck#search-minima&position-3&results-163&rs=search
