@@ -6,7 +6,7 @@ The [DataSet](https://github.com/shru384/SC1015-MiniProject-C133-SS/blob/main/wa
 
 
 ## Contributors
-[@shru384](https://github.com/shru384) and [@xyz]
+[@shru384](https://github.com/shru384) and [@Sushmita-R](https://github.com/Sushmita-R)
 
 Content Outline  
 1. Cleaning of Data
@@ -32,4 +32,11 @@ This project analyses the factors that may have contributed to employee attritio
 
 ## References 
 1. https://slidesgo.com/theme/minimalist-korean-aesthetic-pitch-deck#search-minima&position-3&results-163&rs=search
-2. 
+2. https://www.databricks.com/glossary/machine-learning-models#:~:text=Some%20popular%20examples%20of%20machine,%2C%20random%20forest%2C%20and%20XGBoost.
+3. https://scikit-learn.org/stable/modules/tree.html
+4. https://neptune.ai/blog/performance-metrics-in-machine-learning-completeguide#:~:text=Performance%20metrics%20are%20a%20part,a%20metric%20to%20judge%20performance.
+5. https://www.section.io/engineering-education/introduction-to-random-forest-in-machine-learning/
+6. https://www.mygreatlearning.com/blog/random-forest-algorithm/
+7. https://www.ibm.com/topics/logistic-regression
+
+
