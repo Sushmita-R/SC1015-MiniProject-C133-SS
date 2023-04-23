@@ -35,6 +35,8 @@ The factors that affected employee attrition were:
 8. EnvironmentSatisfaction
 9. JobSatisfaction
 
+Since MonthlyIncome has the strongest correlation of 0.95 with Attrition, it can be concluded that MonthlyIncome is a vital deciding factor. 
+
 
 ## Learning Outcomes
 1. Data wrangling
