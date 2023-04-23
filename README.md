@@ -6,7 +6,7 @@ The [DataSet](https://github.com/shru384/SC1015-MiniProject-C133-SS/blob/main/wa
 
 The Presentation details can be found below.
 * [Slides](https://github.com/shru384/SC1015-MiniProject-C133-SS/blob/main/SC1015MiniProjectPresentationSlides.pdf)
-* [Video]()
+* [Video](https://youtu.be/3FEJpp1lZvk)
   
 
 ## Problem Definition
