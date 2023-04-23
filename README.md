@@ -10,7 +10,7 @@ The [DataSet] and [Source Code](https://github.com/shru384/SC1015-MiniProject-C1
 
 Content Outline  
 1. Cleaning of Data
-2. Visualization of the Data\
+2. Visualization of the Data
 3. Exploratory Analysis
 4. Machine Learning
 5. Simple Neural Network
