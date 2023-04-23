@@ -1,4 +1,4 @@
-# SC1015-MiniProject-C133-SS
+# SC1015 Mini-Project C133 Team7 Shrutikhaa & Sushmita
 ## About
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence). This project is based on Employee Attribution, and the dataset has been obtained from [Kaggle](https://www.kaggle.com/datasets/jpmiller/employee-attrition-for-healthcare).
 
