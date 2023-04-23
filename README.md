@@ -24,6 +24,16 @@ This project analyses the factors that may have contributed to employee attritio
 3. Neural Networks
 
 ## Conclusion
+The factors that affected employee attrition were:
+1. MonthlyIncome
+2. Age
+3. DistanceFromHome
+4. TotalWorkingYears
+5. YearsAtCompany
+6. YearsInCurrentRole
+7. YearsWithCurrManager
+8. EnvironmentSatisfaction
+9. JobSatisfaction
 
 
 ## Learning Outcomes
