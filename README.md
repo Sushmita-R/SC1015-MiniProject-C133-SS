@@ -8,7 +8,7 @@ The [DataSet](https://github.com/shru384/SC1015-MiniProject-C133-SS/blob/main/wa
 ## Contributors
 [@shru384](https://github.com/shru384) and [@Sushmita-R](https://github.com/Sushmita-R)
 
-Content Outline  
+**Content Outline**: 
 1. Cleaning of Data
 2. Visualization of the Data
 3. Exploratory Analysis
