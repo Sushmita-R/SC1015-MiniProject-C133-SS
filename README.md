@@ -13,7 +13,8 @@ The Presentation details can be found below.
 This project analyses the factors that may have contributed to employee attrition of Watson's healthcare, based in the United States, while exploring the best model. 
 
 ## Contributors
-[@shru384](https://github.com/shru384) and [@Sushmita-R](https://github.com/Sushmita-R)
+* Shrutikhaa : [@shru384](https://github.com/shru384)
+* Sushmita : [@Sushmita-R](https://github.com/Sushmita-R)
 
 **Content Outline**: 
 1. Cleaning of Data
