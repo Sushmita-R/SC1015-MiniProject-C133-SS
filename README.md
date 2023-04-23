@@ -4,6 +4,8 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 The [DataSet](https://github.com/shru384/SC1015-MiniProject-C133-SS/blob/main/watson_healthcare_modified.csv) and [Source Code](https://github.com/shru384/SC1015-MiniProject-C133-SS/blob/main/SC1015_C133_Shrutikhaa%26Sushmita.ipynb) can be accessed through the respective hyperlinks.
 
+## Problem Definition
+This project analyses the factors that may have contributed to employee attrition of Watson's healthcare, based in the United States, while exploring the best model. 
 
 ## Contributors
 [@shru384](https://github.com/shru384) and [@Sushmita-R](https://github.com/Sushmita-R)
@@ -15,10 +17,6 @@ The [DataSet](https://github.com/shru384/SC1015-MiniProject-C133-SS/blob/main/wa
 4. Machine Learning
 5. Simple Neural Network
 6. Findings and Summary
-
-## Problem Definition
-This project analyses the factors that may have contributed to employee attrition of Watson's healthcare, based in the United States, while exploring the best model. 
-
 
 ## Models Used
 1. Random Forest
