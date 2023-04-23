@@ -2,7 +2,7 @@
 ## About
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence). This project is based on Employee Attribution, and the dataset has been obtained from [Kaggle](https://www.kaggle.com/datasets/jpmiller/employee-attrition-for-healthcare).
 
-The [DataSet] and [Source Code](https://github.com/shru384/SC1015-MiniProject-C133-SS/blob/main/SC1015_C133_Shrutikhaa%26Sushmita.ipynb) can be accessed through the respective hyperlinks.
+The [DataSet](https://github.com/shru384/SC1015-MiniProject-C133-SS/blob/main/watson_healthcare_modified.csv) and [Source Code](https://github.com/shru384/SC1015-MiniProject-C133-SS/blob/main/SC1015_C133_Shrutikhaa%26Sushmita.ipynb) can be accessed through the respective hyperlinks.
 
 
 ## Contributors
@@ -28,6 +28,7 @@ This project analyses the factors that may have contributed to employee attritio
 ## Conclusion
 
 
+## Learning Outcomes
 
 ## References 
 1. https://slidesgo.com/theme/minimalist-korean-aesthetic-pitch-deck#search-minima&position-3&results-163&rs=search
